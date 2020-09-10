@@ -45,6 +45,7 @@ x = int(
 
 if x == 1:
     os.system("clear")
+    os.system("ifconfig")
     LHOST = input("LHOST : ")
     uyu(2)
     print("Varsayılan LPORT : 4444")
@@ -63,6 +64,7 @@ Exploit {} dizinine kaydedildi !
 
 elif x == 2:
     os.system("clear")
+    os.system("ifconfig")
     LHOST = input("LHOST : ")
     uyu(2)
     print("Varsayılan LPORT : 4444")
@@ -82,6 +84,7 @@ Exploit {} dizinine kaydedildi !
 
 elif x == 3:
     os.system("clear")
+    os.system("ifconfig")
     LHOST = input("LHOST : ")
     uyu(2)
     print("Varsayılan LPORT : 4444")
@@ -99,6 +102,7 @@ Exploit {} dizinine kaydedildi !
 
 elif x == 4:
     os.system("clear")
+    os.system("ifconfig")
     LHOST = input("LHOST : ")
     uyu(2)
     print("Varsayılan LPORT : 4444")
@@ -115,6 +119,7 @@ Exploit {} dizinine kaydedildi !
 
 elif x == 5:
     os.system("clear")
+    os.system("ifconfig")
     LHOST = input("LHOST : ")
     uyu(2)
     print("Varsayılan LPORT : 4444")
